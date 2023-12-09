@@ -1,5 +1,5 @@
 
-![Web Dev BG](https://raw.githubusercontent.com/rhakib/rhakib/main/Rakibul%20Hasan%20(1).png)
+![Web Dev BG](https://github.com/rhakib/rhakib/blob/main/asset/Rakibul%20Hasan%20(1).png?raw=true)
 
 ### Hi there 👋
 
