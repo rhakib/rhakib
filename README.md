@@ -33,48 +33,4 @@
 </p>
 
 
-### 💾 Projects:
-
-# 1. VelocitiWork-Ventures
-
-Client side repo: https://github.com/rhakib/VelocitiWork <br>
-Server side repo: https://github.com/rhakib/VelocitiWork-server <br>
-Website live link: https://velocitiwork-ventures.web.app/
-
-### Features:
-1. Creating Account: User will be able to create an account by specific role in our website like HR or Employee. <br>
-2. Worksheet: Employee will be able to submit work through worksheet page. <br>
-3. Pay to Employee: HR can pay to each employee through a payment method named Stripe.<br>
-4. Employee Stats: HR will be able to see stats of an employee.<br>
-5. Fire by Admin: Admin will be able to Fire an Employee or an HR.<br>
-
-# 2. CoStay
-
-Client side repo: https://github.com/rhakib/CoStay-client <br>
-Server side repo: https://github.com/rhakib/CoStay-server <br>
-Website live link: https://costay-d3e93.web.app/ <br>
-
-### Features:
-
-1. Creating Account: User will be able to create an account in our website. <br>
-2. Explore rooms: User can explore our all rooms by clicking view or book now button. <br>
-3. Booking room: User will be able to book a room for specific date. <br>
-4. My bookings: User will be able see his/her booking list and can cancel it before one day of booked date. <br>
-5. Giving reviews: User will be able to share his/her experiences after booking a room. <br>
-
-# 3. BrandShop
-
-Client side repo: https://github.com/rhakib/Brand-shop-client <br>
-Server side repo: https://github.com/rhakib/Brand-shop-server <br>
-Website live link: https://brandshop-client.web.app/ <br>
-
-### Features:
-
-1. Creating Account: User will be able to create an account in our store.<br>
-2. Purchase Products: User can purchase product from our website by clicking add to cart button.<br>
-3. Removing from Cart: User will be able to remove the added products from his/her cart.<br>
-4. Adding Products: An admin of this website will be able to add products through a form in the add product page.<br>
-5. Updating Products: An admin of this website can update the product information using update product form.<br>
-
-
 
