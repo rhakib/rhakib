@@ -15,7 +15,7 @@
 ## 💻 Technologies:
 
 
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nodejs,express,mongodb)](https://skillicons.dev) </p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nodejs,express,mongodb)](https://skillicons.dev)
 
 
 ## About me 🙋 
