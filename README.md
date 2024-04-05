@@ -14,9 +14,11 @@
 
 ## 💻 Technologies:
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nodejs,express,mongodb)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nodejs,express,mongodb" />
+  </a>
+</p>
 
 ## About me 🙋 
 - 🌱 I’m currently developing skills in JS, React, MongoDB, Express.js, Next.js
