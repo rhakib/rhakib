@@ -1,6 +1,4 @@
 
-![Web Dev BG](https://github.com/rhakib/rhakib/blob/main/Rakibul%20Hasan%20(1).png?raw=true)
-
 
  
 ### 📊 Current Stats
@@ -16,12 +14,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nextjs,nodejs,express,mongodb" />
   </a>
 </p>
 
 ## About me 🙋 
-- 🌱 I’m currently developing skills in JS, React, MongoDB, Express.js, Next.js
+- 🌱 I’m currently working as a web developer with expirtise on JS, React, Next.js, MongoDB, Node.js, Express.js
 - 👯 I’m looking to contribute on open source projects
 - 💻 I'm looking to explore new techonologies everyday.
 
