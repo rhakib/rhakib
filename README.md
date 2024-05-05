@@ -12,11 +12,13 @@
 
 ## 💻 Technologies:
 
-<a align="center" href="https://visitorbadge.io/status?path=rhakib"><img src="https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23f47373" /></a>
-
 <p align="center">
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23f47373)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,ts,react,nextjs,nodejs,express,mongodb" />
+  </a>
 </p>
+
+<a align="center" href="https://visitorbadge.io/status?path=rhakib"><img src="https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23f47373" /></a>
 
 
 ## About me 🙋 
