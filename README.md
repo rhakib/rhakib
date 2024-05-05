@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<p align="center">
+ <p>Visitors 👀</p>
+  ![](https://api.visitorbadge.io/api/VisitorHit?rhakib=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+</p>
+
+
 ## About me 🙋 
 - 🌱 I’m currently working as a web developer with expirtise on JS, React, Next.js, MongoDB, Node.js, Express.js
 - 👯 I’m looking to contribute on open source projects
