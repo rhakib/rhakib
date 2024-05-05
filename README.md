@@ -18,8 +18,7 @@
   </a>
 </p>
 
-<a align="center" href="https://visitorbadge.io/status?path=rhakib"><img src="https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23263759
-" /></a>
+<a align="center" href="https://visitorbadge.io/status?path=rhakib"><img src="https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23f47373" /></a>
 
 
 ## About me 🙋 
