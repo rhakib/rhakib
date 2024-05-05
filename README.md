@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=rhakib&repo=CoStay-client&countColor=%237B1E7A)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=rhakib&countColor=%23f47373)
 </p>
 
 
