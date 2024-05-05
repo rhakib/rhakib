@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
- <p>Visitors 👀</p>
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=rhakib&repo=github-visitors-badge&countColor=%237B1E7A)
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=rhakib&repo=CoStay-client&countColor=%237B1E7A)
 </p>
 
 
